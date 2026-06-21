@@ -11,7 +11,7 @@
 1. Dans le dashboard EmailJS, cliquez sur "Email Services"
 2. Cliquez sur "Add New Service"
 3. Choisissez "Gmail" (recommandé) ou votre service email préféré
-4. Connectez votre compte email (verifyfr911@gmail.com)
+4. Connectez votre compte email (mistercards2@gmail.com)
 5. Donnez un nom à votre service (ex: "gmail_service")
 
 ### 3. Créer un template email
